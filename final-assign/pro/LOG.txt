@@ -1,0 +1,87 @@
+
+                VxWorks
+
+Copyright 1984-2002  Wind River Systems, Inc.
+
+            CPU: VxSim for Windows
+   Runtime Name: VxWorks
+Runtime Version: 5.5
+    BSP version: 1.2/1
+        Created: Dec 26 2020, 09:32:10
+  WDB Comm Type: WDB_COMM_PIPE
+            WDB: Ready.
+
+sender: receive NAK. 
+sender: send SOH. 
+receiver: send nak. 
+receiver: timer_nak start. 
+receiver: receive SOH. 
+receiver: timer_nak stop. 
+receiver: string now [128] 
+sender: receive ACK. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [256] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [384] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [512] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [640] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [768] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [896] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [1024] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send SOH. 
+sender: timer_soh start. 
+receiver: send ack 
+receiver: receive SOH. 
+receiver: string now [1129] 
+sender: receive ACK. 
+sender: timer_soh stop. 
+sender: send EOT. 
+sender: timer_eot start. 
+receiver: send ack 
+receiver: receive EOT. 
+sender: receive ACK. 
+sender: timer_eot stop. 
+sender: finish. 
+receiver: send ack 
+receiver: finish. 
+-----MATCHING(1129 bytes)------
